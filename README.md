@@ -1,4 +1,6 @@
-# coin_flip
+# Coin-flip puzzle
+*Solution by Cian Galvin*
+
 Alice &amp; Bob flip coins. Alice gets points for HH. Bob gets points for HT. Who wins in a 100-flip game?
 
 https://twitter.com/littmath/status/1769044719034647001
@@ -17,3 +19,5 @@ Poll results:
 
 Actual result:
 Bob wins ~**48.6%** of games, Alice wins ~**45.8%**. 5.6% of games are ties
+
+Of the ~41k people who choose an answer (Alice, Bob, Equally likely), 87.1% voted against Bob winning

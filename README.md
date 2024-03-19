@@ -2,6 +2,7 @@
 Alice &amp; Bob flip coins. Alice gets points for HH. Bob gets points for HT. Who wins in a 100-flip game?
 
 https://twitter.com/littmath/status/1769044719034647001
+
 https://www.reddit.com/r/theydidthemath/comments/1bgnbnt/request_whod_get_more_points/
 
 Mat's challenge:
